@@ -1,5 +1,5 @@
 {
   "name": "Heroku NodeJS Sample",
   "description": "これはNodeJSで作成されたサンプルのHerokuアプリです。",
-  "repository": "https://github.com/m-nishino/heroku-nodejs-sample.git"
+  "repository": "https://github.com/201704-mnishino-work/heroku-nodejs-sample.git"
 }
